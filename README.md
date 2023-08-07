@@ -21,7 +21,6 @@ knowledge.</h3>
 <a href="https://linkedin.com/in/dishu-kataria-a90016223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishu-kataria-a90016223" height="30" width="40" /></a>
 <a href="https://instagram.com/dishu4481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishu4481" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dishukataria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dishukataria" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dishu4481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dishu4481" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
